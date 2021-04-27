@@ -3,9 +3,9 @@
 <img src='https://bahramali.ir/img/rubika.logo.svg'></img></a></p>
 <br />
 <p align="center">
-<a href="https://packagist.org/packages/bahramali/rubika-php"><img src="https://img.shields.io/packagist/dt/bahramali/rubika-php" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/bahramali/rubika-php"><img src="https://img.shields.io/packagist/v/bahramali/rubika-php" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/bahramali/rubika-php"><img src="https://img.shields.io/packagist/l/bahramali/rubika-php" alt="License"></a>
+<a href="https://packagist.org/packages/bahramali/rubika-php"  target="_blank"><img src="https://img.shields.io/packagist/dt/bahramali/rubika-php" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/bahramali/rubika-php"  target="_blank"><img src="https://img.shields.io/packagist/v/bahramali/rubika-php" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/bahramali/rubika-php"  target="_blank"><img src="https://img.shields.io/packagist/l/bahramali/rubika-php?" alt="License"></a>
 </p>
 
 # Rubika-PHP
