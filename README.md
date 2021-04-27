@@ -16,6 +16,7 @@ Rubika-PHP is a PHP Library for interaction with rubika (social network)
 composer require bahramali/rubika-php
 ```
 ## Usage
+*object_guid($user_guid,$group_guid,$channel_guid and other) is a unique code for user, group, channel and other*
 ```php
 set_time_limit(0);
 require_once __DIR__ . '/vendor/autoload.php';
@@ -73,9 +74,6 @@ $account->votePoll($poll_id, $selection_index);
 ```
 ## Example
 * [`parrot.php`](https://github.com/ErfanBahramali/Rubika-PHP/blob/main/examples/parrot.php) 
-
-
-## Disclaimer
 
 ## About Us
 This library can be used for easy interaction with Rubika just like official applications.
